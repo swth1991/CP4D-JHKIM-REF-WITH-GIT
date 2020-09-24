@@ -1,0 +1,1 @@
+{"metadata":{"asset_id":"83b49c79-78a6-4dc1-a514-217981aef8aa","asset_type":"connection","creator_id":"1000331024"},"entity":{"datasource_type":"8c1a4480-1c29-4b33-9086-9cb799d7b157","description":"JHKIM-DB2-BLUDB","name":"JHKIM-DB2-BLUDB","origin_country":"us","properties":{"database":"BLUDB","port":50000,"host":"jihun.zanity.net","ssl":false},"flags":["personal_credentials"]}}
